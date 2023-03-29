@@ -1,0 +1,15 @@
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.deps.json
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.dll
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.pdb
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.dll
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.pdb
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.AssemblyReference.cache
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CopyComplete
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.dll
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/refint/PaymentContext.Domain.dll
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.pdb
+/home/adriano/dotnetcore/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/ref/PaymentContext.Domain.dll
